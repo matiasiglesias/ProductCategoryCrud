@@ -1,6 +1,6 @@
 
 # ProductCategoryCrud API
-
+Hola soy Gabriel
 Esta es una API REST creada en .NET Core que permite gestionar productos y categorías en una base de datos SQLite. La 
 tabla `Products` incluye un campo adicional llamado `Score`.
 
